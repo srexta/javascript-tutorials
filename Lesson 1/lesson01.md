@@ -6,4 +6,7 @@ priting the parts
  - defer concept
  - document.write concept
 
+ Comment concept
+ single line comment and multipleline comment concept
+
 Console.log box in chrome usage and compilation
