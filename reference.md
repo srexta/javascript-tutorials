@@ -104,3 +104,7 @@ Lesson 15
 Lesson 16 
 -- JavaScript Cookies (Create, Read and Delete)
 -- Web Storage (Local storage and Session storage)
+
+
+Youtube reference: 
+Lesson 2: https://www.youtube.com/watch?v=rhaBWCilymI&ab_channel=sagarshrestha
